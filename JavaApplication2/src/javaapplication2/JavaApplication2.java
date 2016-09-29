@@ -5,7 +5,7 @@
 package javaapplication2;
 
 /**
- *
+ * Test class.
  * @author conghoang
  */
 public class JavaApplication2 {
